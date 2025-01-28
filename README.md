@@ -1,6 +1,6 @@
 # Autonomous Tennis Ball Fetcher
 This project is an autonomous vehicle designed to efficiently search, collect, and deliver tennis balls within a competitive arena. The vehicle integrates mechatronic systems, including robust mechanical design, precise sensors, and optimized control algorithms. The robot's primary features include autonomous ball detection using sharp distance sensors, obstacle avoidance, and boundary adherence via line-tracking modules. The ball collection mechanism employs a swing gate system, and a ramp facilitates seamless ball delivery. The project showcases the full engineering design lifecycle—from conceptualization and prototyping to testing and competition performance. It reflects the team's commitment to simplicity, clarity, and safety in autonomous system design.
-See [report](figure/report.pdf) for details.
+See [report](figure/report_atbf.pdf) for details.
 
 | ![demo](figure/demo1.gif) | ![env](figure/demo2.gif) |
 | ------------------------- | ------------------------ |
